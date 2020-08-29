@@ -1,2 +1,2 @@
-# mymonkey
-Interpreter from a book written in go.
+## Writing an Interpreter In Go - Thorsten Ball
+Buy the Book https://interpreterbook.com/
